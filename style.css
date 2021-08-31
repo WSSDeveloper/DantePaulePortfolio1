@@ -564,7 +564,7 @@ footer p {
     font-size: 14px;
   }
 }
-@media (max-width: 470px) {
+@media (max-width: 500px) {
   .contact .right form .fields {
     flex-direction: column;
   }
