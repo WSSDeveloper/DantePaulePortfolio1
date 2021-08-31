@@ -576,12 +576,12 @@ footer p {
     margin: 0;
   }
  .services {
-  padding-top: 90px;
+  padding-bottom: 800px;
   }
  .skills {
-  padding-bottom: 80px;
+  padding-bottom: 60px;
  }
  .contact {
-  margin-bottom: 180px;
+  margin-bottom: 210px;
   }
 }
